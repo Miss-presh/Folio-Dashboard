@@ -1,8 +1,8 @@
 # Folio — E-Commerce Analytics Dashboard
 
 A responsive, front-end e-commerce sales dashboard built as a portfolio demo to
-showcase modern React and data-visualization work. All data is mocked — there is
-no backend — so the focus is entirely on UI, interactivity, and clean component
+showcase modern React and data-visualization work. All data is mocked, there is
+no backend so the focus is entirely on UI, interactivity, and clean component
 design.
 
 **Live demo:** [add your Vercel link here]
@@ -42,4 +42,4 @@ data shown is fictional and generated for illustration only.
 ## Author
 
 **Eti-ini Precious** — Front-End Engineer
-[LinkedIn](https://www.linkedin.com/in/eti-ini-precious-76601a248)
+[LinkedIn](https://www.linkedin.com/in/eti-ini-precious/)
